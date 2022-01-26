@@ -1,1 +1,1 @@
-# Data Analytic Jobs Analysis
+# Data Analyst Jobs Analysis
