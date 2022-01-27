@@ -8,7 +8,7 @@
 
 ## Description
 
-An analysis on "data analyst jobs" to predict the lowest and highest possible wages based on the characteristics of the company:
+An analysis on "[data analyst jobs](https://www.kaggle.com/andrewmvd/data-analyst-jobs)" to predict the lowest and highest possible wages based on the characteristics of the company:
 
 - Company rating
 
